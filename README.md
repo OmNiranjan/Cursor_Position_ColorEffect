@@ -2,6 +2,8 @@
 
 A simple and interactive web application built with HTML, CSS, and JavaScript that dynamically adjusts color gradients and shades based on your cursor's horizontal position.
 
+[View Live Project](https://omniranjan.github.io/Cursor_Position_ColorEffect/)
+
 ## ✨ Features
 - **Dynamic Color Shifting:** Move your mouse towards the left to deepen the red color shade, and towards the right to deepen the blue shade.
 - **Real-Time Tracking:** Smoothly captures cursor coordinates to update the UI instantly.
