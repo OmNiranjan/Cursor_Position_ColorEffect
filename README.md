@@ -5,7 +5,6 @@ A simple and interactive web application built with HTML, CSS, and JavaScript th
 ## ✨ Features
 - **Dynamic Color Shifting:** Move your mouse towards the left to deepen the red color shade, and towards the right to deepen the blue shade.
 - **Real-Time Tracking:** Smoothly captures cursor coordinates to update the UI instantly.
-- **Lightweight & Clean:** Built using vanilla web technologies without any heavy external libraries.
 
 ## 🚀 How to Run Locally
 1. Clone this repository:
